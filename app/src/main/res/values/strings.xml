@@ -51,4 +51,8 @@
     <string name="you_have_reached">You have reached your destination.</string>
     <string name="speech_on">Speech On</string>
     <string name="speech_off">Speech Off</string>
+    <string name="_3_km">3 KM</string>
+    <string name="price">6000</string>
+    <string name="t2">:</string>
+
 </resources>
